@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Sarosh Ali",
+      "email": "saroshali4@gmail.com",
+      "gender": "Male",
+      "profession": "Developer",
+      "address": "Address",
+      "id": 1
+    }
+  ]
+}
